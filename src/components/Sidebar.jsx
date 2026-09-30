@@ -42,8 +42,8 @@ export default function Sidebar({ mobileOpen = false, onCloseMobile }) {
       <div className="sidebar-brand">
         <div className="sidebar-logo-icon">CI</div>
         <div className="sidebar-brand-text">
-          <h1>Coal Intelligence</h1>
-          <p>Digital Mine Knowledge</p>
+          <h1>laura lahsun</h1>
+          <p>Digital lund Knowledge</p>
         </div>
       </div>
 
